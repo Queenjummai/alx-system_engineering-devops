@@ -1,2 +1,4 @@
 #!/bin/bash
 whoami
+#1/bin/bash
+whoami
