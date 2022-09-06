@@ -1,1 +1,1 @@
-script that prints who am i
+script that prints who i am
