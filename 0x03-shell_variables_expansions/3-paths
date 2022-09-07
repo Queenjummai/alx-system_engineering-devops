@@ -5,3 +5,6 @@ echo $PATH | tr ":" "
 echo $PATH | tr ":" " "
 " |Wc
  -l
+#!/bin/bash
+echo $PATH | tr ":" "
+" |Wc -l
